@@ -32,6 +32,6 @@ npm run dev:css
 Dengan menjalankan perintah di atas, Tailwind CSS akan dikompilasi dan siap untuk digunakan dalam proyek.
 
 ## Author
-[Rito](https://github.com/buryne/)
+[Muhammad Rizal](https://github.com/Ahmadzal/)
 
 Happy Coding 🚀
